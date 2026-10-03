@@ -1,0 +1,143 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "demo",
+      "email": "demo@mobilestore.com",
+      "password": "demo123"
+    },
+    {
+      "name": "Kalyan Korada",
+      "email": "kalyankorada16@gmail.com",
+      "password": "Kalyan@1610",
+      "id": "aHymk8Txr-s"
+    }
+  ],
+  "mobiles": [
+    {
+      "id": "1",
+      "name": "Galaxy S24",
+      "brand": "Samsung",
+      "category": "Flagship",
+      "image": "https://www.triveniworld.com/cdn/shop/files/samsung-galaxy-s24-ultra-5g-ai-smartphone-titanium-violet-12gb-256gb-storage-triveni-world-6.jpg?v=1736304715&width=1946",
+      "description": "Compact Android flagship with Galaxy AI features and a bright AMOLED display.",
+      "price": 74999,
+      "rating": 4.6,
+      "ram": "8GB",
+      "storage": "256GB",
+      "display": "6.2\" Dynamic AMOLED 2X, 120Hz",
+      "camera": "50MP + 12MP + 10MP",
+      "battery": "4000 mAh",
+      "processor": "Exynos 2400",
+      "famousFor": "Display and AI features",
+      "features": [
+        "Galaxy AI",
+        "120Hz display",
+        "IP68",
+        "7 years of updates"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "x 300 FE",
+      "brand": "vivo",
+      "category": "Mid-range",
+      "image": "https://in-exstatic-vivofs.vivo.com/gdHFRinHEMrj3yPG/1778657136218/b334d1339a9a859393fa3c4c37bf245b.jpg",
+      "description": "Mid-range vivo phone with a ZEISS-tuned camera system.",
+      "price": 0,
+      "rating": 4.4,
+      "ram": "",
+      "storage": "",
+      "display": "",
+      "camera": "ZEISS camera",
+      "battery": "",
+      "processor": "",
+      "famousFor": "ZEISS camera",
+      "features": [
+        "ZEISS optics",
+        "5G"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Pixel 8",
+      "brand": "Google",
+      "category": "Flagship",
+      "image": "https://cdn.sanity.io/images/3azemr64/production/f580dbe11c4a3b1ffc72f4b55cca4e22855a908b-980x670.jpg?w=700",
+      "description": "Clean Android with the best computational photography and Tensor G3.",
+      "price": 62999,
+      "rating": 4.5,
+      "ram": "8GB",
+      "storage": "128GB",
+      "display": "6.2\" OLED, 120Hz",
+      "camera": "50MP + 12MP",
+      "battery": "4575 mAh",
+      "processor": "Google Tensor G3",
+      "famousFor": "Camera software",
+      "features": [
+        "7 years of updates",
+        "Magic Eraser",
+        "Best Take",
+        "IP68"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "oneplus 15",
+      "brand": "OnePlus",
+      "category": "Budget",
+      "image": "https://www.telegraph.co.uk/content/dam/recommended/2025/12/05/TELEMMGLPICT000451885170_17649326509640_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.jpeg?imwidth=640",
+      "description": "Smooth performance and fast charging.",
+      "price": 0,
+      "rating": 4.2,
+      "ram": "",
+      "storage": "",
+      "display": "",
+      "camera": "",
+      "battery": "",
+      "processor": "",
+      "famousFor": "Fast charging",
+      "features": [
+        "Fast charging",
+        "OxygenOS",
+        "5G"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "18 pro max",
+      "brand": "iphone",
+      "category": "",
+      "image": "https://www.mymobileindia.com/wp-content/uploads/2025/11/image-278.png",
+      "description": "",
+      "price": 0,
+      "rating": "",
+      "ram": "",
+      "storage": "",
+      "display": "",
+      "camera": "",
+      "battery": "",
+      "processor": "",
+      "famousFor": "",
+      "features": []
+    },
+    {
+      "id": "6",
+      "name": "oppo X9 ultra",
+      "brand": "OPPO",
+      "category": "",
+      "image": "https://opsg-img-cdn-gl.heytapimg.com/epb/202605/20/5urkSUbqiBAzYZzK.jpg?x-amz-process=image/format,webp/quality,Q_80",
+      "description": "",
+      "price": 0,
+      "rating": "",
+      "ram": "",
+      "storage": "",
+      "display": "",
+      "camera": "",
+      "battery": "",
+      "processor": "",
+      "famousFor": "",
+      "features": []
+    }
+  ]
+}
